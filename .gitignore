@@ -1,0 +1,17 @@
+lab11_NeuralNetworks/fashion_mnist/FashionMNIST/raw/t10k-images-idx3-ubyte
+lab11_NeuralNetworks/fashion_mnist/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+lab11_NeuralNetworks/fashion_mnist/FashionMNIST/raw/t10k-labels-idx1-ubyte
+lab11_NeuralNetworks/fashion_mnist/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+lab11_NeuralNetworks/fashion_mnist/FashionMNIST/raw/train-images-idx3-ubyte
+lab11_NeuralNetworks/fashion_mnist/FashionMNIST/raw/train-images-idx3-ubyte.gz
+lab11_NeuralNetworks/fashion_mnist/FashionMNIST/raw/train-labels-idx1-ubyte
+lab11_NeuralNetworks/fashion_mnist/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+lab11_NeuralNetworks/fashion_mnist_test/FashionMNIST/raw/t10k-images-idx3-ubyte
+lab11_NeuralNetworks/fashion_mnist_test/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+lab11_NeuralNetworks/fashion_mnist_test/FashionMNIST/raw/t10k-labels-idx1-ubyte
+lab11_NeuralNetworks/fashion_mnist_test/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+lab11_NeuralNetworks/fashion_mnist_test/FashionMNIST/raw/train-images-idx3-ubyte
+lab11_NeuralNetworks/fashion_mnist_test/FashionMNIST/raw/train-images-idx3-ubyte.gz
+lab11_NeuralNetworks/fashion_mnist_test/FashionMNIST/raw/train-labels-idx1-ubyte
+lab11_NeuralNetworks/fashion_mnist_test/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+lab11_NeuralNetworks/test.py
